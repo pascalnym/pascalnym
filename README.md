@@ -20,4 +20,5 @@ If you want to discuss a specific topic, let's start a conversation here:
 
 [LinkedIn](https://www.linkedin.com/in/pascalnym)<br>
 [X / Twitter](https://x.com/pascalnym)<br>
+[Facebook](https://facebook.com/pascalnym)<br>
 [Instagram](https://instagram.com/pascalnym)
