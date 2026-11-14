@@ -18,6 +18,6 @@ I channel my public engineering and collaborative efforts through **[@netwourks]
 ### Let's Connect & Collaborate
 If you want to discuss a specific topic, let's start a conversation here:
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/pascalnym)
-[![X / Twitter](https://shields.io)](https://x.com/pascalnym)
-[![Instagram](https://shields.io)](https://instagram.com/pascalnym)
+[LinkedIn](https://www.linkedin.com/in/pascalnym)<br>
+[X / Twitter](https://x.com/pascalnym)<br>
+[Instagram](https://instagram.com/pascalnym)
