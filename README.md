@@ -20,3 +20,4 @@ If you want to discuss a specific topic, let's start a conversation here:
 
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/pascalnym)
 [![X / Twitter](https://shields.io)](https://x.com/pascalnym)
+[![Instagram](https://shields.io)](https://instagram.com/pascalnym)
